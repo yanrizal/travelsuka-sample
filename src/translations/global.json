@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": ["Make your travel plans on the go", "Pilih Hotel Indonesia"],
+    "fWidget": ["Search best travel destination", "Cari Penerbangan"],
+    "hWidget": ["Search best travel destination", "Cari Hotel"],
+    "tWidget": ["Search best travel destination", "Cari Kereta"],
+    "oneWay": ["One way", "Pergi"],
+    "return": ["Return", "Pulang"],
+    "search": ["Search", "Cari"],
+    "adult": ["Adult", "Dewasa"],
+    "child": ["Child", "Anak"],
+    "infant": ["Infant", "Bayi"],
+    "room": ["Room", "Kamar"],
+    "book": ["Book", "Pilih"]
+  },
+  "form": {
+    "fullName": ["Full Name", "Name Lengkap"]
+  }
+}
